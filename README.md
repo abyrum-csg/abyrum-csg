@@ -5,7 +5,7 @@ I am a data science project manager in the Research Division at the CSG Justice 
 📫 How to reach me: byrumae@gmail.com
 
 
-## Here is a list of several projects I've recently led 📚
+## Here is a list of several projects I've recently led
 
 * **Justice Reinvestment Iniative in North Carolina**
 Building on prior work, this six-month project assessed the impact of the 2011 Justice Reinvestment Act (JRA) legislation in North Carolina. Utilizing both descriptive statistics and more advanced statistical methods, the analysis pinpointed changes in incarceration rates, revocations, and specific criminal justice outcomes following the implementation of North Carolina's JRA and its respective policies.
