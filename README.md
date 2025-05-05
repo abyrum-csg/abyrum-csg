@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a data science project manager in the Research Division at the CSG Justice Center where I work on data prep, analysis, and visualization using R.
+I am a data science project manager in the Research Division at the [CSG Justice Center](https://csgjusticecenter.org/) where I work on data prep, analysis, and visualization using R.
 
 📫 How to reach me: byrumae@gmail.com
 
