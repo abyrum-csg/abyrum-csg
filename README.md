@@ -9,7 +9,7 @@ I am a data science project manager in the Research Division at the [CSG Justice
 
 **Justice Reinvestment Initiative (JRI) in North Carolina**
   
-Building on prior work, this six-month project assessed the impact of the 2011 Justice Reinvestment Act (JRA) legislation in North Carolina. Utilizing both descriptive statistics and more advanced statistical methods, the analysis pinpointed changes in incarceration rates, revocations, and specific criminal justice outcomes following the implementation of North Carolina's JRA and its respective policies.
+Building on prior work, this project assessed the impact of the 2011 Justice Reinvestment Act (JRA) legislation in North Carolina. Utilizing both descriptive statistics and more advanced statistical methods, the analysis pinpointed changes in incarceration rates, revocations, and specific criminal justice outcomes following the implementation of North Carolina's JRA and its respective policies and administrative changes.
 
 * See repo [here](https://github.com/CSGJusticeCenter/jr-nc)
 
