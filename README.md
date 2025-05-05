@@ -7,7 +7,7 @@ I am a data science project manager in the Research Division at the [CSG Justice
 
 ## Here is a list of several projects I've recently led:
 
-**Justice Reinvestment Iniative in North Carolina**
+**Justice Reinvestment Initiative (JRI) in North Carolina**
   
 Building on prior work, this six-month project assessed the impact of the 2011 Justice Reinvestment Act (JRA) legislation in North Carolina. Utilizing both descriptive statistics and more advanced statistical methods, the analysis pinpointed changes in incarceration rates, revocations, and specific criminal justice outcomes following the implementation of North Carolina's JRA and its respective policies.
 
@@ -19,7 +19,7 @@ The goal of the Reentry 2030 Dashboard is to provide states with the tools to tr
 
 * See preliminary repo [here](https://github.com/CSGJusticeCenter/reentry-2030-dashboard)
 
-**OJJDP Juvenile Justice Project in Virginia**
+**OJJDP Juvenile Justice in Virginia**
   
 This project's aim was to assess statewide referral and diversion policies and practices, and identify opportunities to align DJJ diversion policies, practices, and resource allocation strategies with what research shows works to improve public safety and youth outcomes.
 
