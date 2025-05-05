@@ -5,7 +5,7 @@ I am a data science project manager in the Research Division at the [CSG Justice
 📫 How to reach me: byrumae@gmail.com
 
 
-## Here is a list of several projects I've recently led
+## Here is a list of several projects I've recently led:
 
 **Justice Reinvestment Iniative in North Carolina**
   
